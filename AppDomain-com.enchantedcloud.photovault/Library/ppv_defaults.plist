@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasAttemptedKeychainMigration</key>
+	<true/>
+	<key>ppv_keychainID</key>
+	<string>F87D23DA-2126-46A6-BF26-E21364A7DAE4-9418-000006C0FAA01FF0</string>
+</dict>
+</plist>
